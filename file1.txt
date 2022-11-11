@@ -1,2 +1,1 @@
-My first file in git
-created by tanaya deshpande 
+My first file in git deshpande 
